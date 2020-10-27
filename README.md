@@ -1,2 +1,2 @@
 # hw_dotnet
-example
+Repository for studing cource "Basic C#".

@@ -1,0 +1,11 @@
+If you want to Book Room in Hotel, you need to:
+1. Choose destination. Choose check-in date. Choose check-out date. Choose number of guests.
+2. Set filters.
+3. Then you will have list with hotels.
+4. If list is empty, you must choose another settings.
+5. Else you have to read all about hotels from first to last hotel in the list.
+6. If the hotel doesn't suit you, go to the next hotel.
+7. If the hotel suits you, you have to read all about rooms in list of rooms of this hotel.
+8. If the room doesn't suit you, go to the next room.
+9. Else you begin to book this room (input your first name, last name and e-mail) and don't search again.
+End
