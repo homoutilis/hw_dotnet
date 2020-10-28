@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T05:30:29.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="udbDggFFsr-I2_KxA8zt" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T11:43:30.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="tGfadDuskyu5UPV1Oob_" version="13.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -24,7 +24,7 @@
         <mxCell id="hDKh7NUV8Eu-Q5h1_q7I-5" value="Read search results (List of Hotels)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;fontStyle=1;fillColor=#FFBF78;strokeWidth=2;fontColor=#023253;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="344" y="590.95" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hDKh7NUV8Eu-Q5h1_q7I-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Is this Hotel suit you?&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=14;fontStyle=1;fillColor=#FFBF78;strokeWidth=2;fontColor=#023253;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="hDKh7NUV8Eu-Q5h1_q7I-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Does this Hotel suit you?&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=14;fontStyle=1;fillColor=#FFBF78;strokeWidth=2;fontColor=#023253;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="392.51" y="690.95" width="183" height="109.8" as="geometry" />
         </mxCell>
         <mxCell id="hDKh7NUV8Eu-Q5h1_q7I-15" value="" style="endArrow=block;html=1;endFill=0;fillColor=#fff2cc;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GIPnYeH-T1rYgQukY-hG-4" target="hDKh7NUV8Eu-Q5h1_q7I-5" edge="1">
@@ -80,7 +80,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIPnYeH-T1rYgQukY-hG-9" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Is this Room suit you?&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=14;fontStyle=1;fillColor=#FFBF78;strokeWidth=2;fontColor=#023253;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GIPnYeH-T1rYgQukY-hG-9" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Does this Room suit you?&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=14;fontStyle=1;fillColor=#FFBF78;strokeWidth=2;fontColor=#023253;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="392.51" y="1060.95" width="183" height="109.8" as="geometry" />
         </mxCell>
         <mxCell id="GIPnYeH-T1rYgQukY-hG-10" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=2;shadow=0;fontStyle=1;fillColor=#FFBF78;fontColor=#023253;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
